@@ -45,6 +45,11 @@ mvn clean package exec:java -Dmaven.test.skip
 
 For more information about how to use maven see the [documentation](https://maven.apache.org/guides/index.html).
 
+## Authors
+- Dinise Melo
+- Gabriel Subutzki
+- David António
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit).
